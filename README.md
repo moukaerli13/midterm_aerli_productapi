@@ -1,4 +1,4 @@
-# Lab 02 – Laravel REST API + Flutter (Products)
+# midterm – Laravel REST API + Flutter (Products)
 
 ```
 lab02/
